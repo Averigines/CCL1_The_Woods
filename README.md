@@ -16,7 +16,7 @@ A very short plain JavaScript browser game which I've done for the first term of
    
 4. Open your browser and go to:
    ```sh
-   http://localhost:<port>
+   http://localhost:[port]
    ```
 
 ## How to Play
